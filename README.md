@@ -4,7 +4,8 @@
 
 ## Link: https://repl.it/@maidaNsiddique/PagingandSegmentation#main.c
 
-## Demo: ![Demo Gif](PS.gif)
+## Demo: 
+![Demo Gif](PS.gif)
 
 ## Algorithm:
 Implemented the visualization of the Paging and Segmentation scheme as done by an operating system. 
